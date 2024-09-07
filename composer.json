@@ -1,0 +1,22 @@
+{
+    "name": "xtompie/tpl",
+    "description": "Simple template engine",
+    "keywords": ["template", "engine", "tpl"],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xtompie\\Tpl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tomasz Pielczyk",
+            "email": "tomasz.pielczyk@gmail.com"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "bin/xtompie-tpl-audit.sh"
+    ]
+}

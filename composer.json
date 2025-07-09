@@ -17,6 +17,6 @@
     ],
     "require": {},
     "bin": [
-        "bin/xtompie-tpl-audit.sh"
+        "bin/xtompie-tpl-audit.php"
     ]
 }
